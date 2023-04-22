@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Tech Blog focalizzato su Sviluppo e Architettura Software, DevOps, Cloud Native, Agile e Sicurezza.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://marcolenzo-it.github.io"
+url: "https://marcolenzo.it"
 
 github:
   username: marcolenzo # change to your github username
@@ -200,3 +200,4 @@ jekyll-archives:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
